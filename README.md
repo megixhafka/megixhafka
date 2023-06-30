@@ -12,7 +12,7 @@
 - <b>Deep Learning Projects</b>
   - []()
 - <b>Data Analysis (Visualizations using Tableau)</b>
-  - []()
+  - [Data Visualizations](https://github.com/megixhafka/Data-Visualizations-Tableau/tree/main)
 - <b>Design Thinking</b>
   - [Low Fidelity Prototype Project](https://github.com/megixhafka/Low-Fidelity-Prototype)
   - Certification: [IBM Enterprise Design Thinking Practitioner](https://www.credly.com/badges/0c20eb09-7465-4bd2-8cbc-973105eb1216/public_url) 
