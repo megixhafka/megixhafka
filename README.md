@@ -11,6 +11,7 @@
   - [Audiobook](https://github.com/megixhafka/Audiobook)
   - [Cartonify Faces](https://github.com/megixhafka/Cartonify-Faces)
 - <b>Deep Learning Projects</b>
+  -[Brain Tumor MRI Classification](https://github.com/megixhafka/megixhafka.github.io)
   - [Exploring the Impact of Weight Initializers and Optimizers in IMDb dataset](https://github.com/megixhafka/Mathematical-Concepts-for-Deep-Learning)
 - <b>Data Analysis (Visualizations using Tableau)</b>
   - [Data Visualizations](https://github.com/megixhafka/Data-Visualizations-Tableau/tree/main)
